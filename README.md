@@ -86,12 +86,14 @@ const hugo = {
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugoalmeida0&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hugo's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoalmeida0&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugoalmeida0&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" alt="Hugo's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoalmeida0&layout=compact&hide_border=true&cache_seconds=1800" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugoalmeida0&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Hugoalmeida0&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
+
+<p align="center"><sub>Open to remote, hybrid, and on-site opportunities — .NET / Angular / AI-assisted engineering.</sub></p>
