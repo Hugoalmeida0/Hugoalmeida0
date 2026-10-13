@@ -96,4 +96,4 @@ const hugo = {
 
 ---
 
-<p align="center"><sub>Open to remote, hybrid, and on-site opportunities — .NET / Angular / AI-assisted engineering.</sub></p>
+<p align="center"><sub>.NET / Angular / AI-assisted engineering.</sub></p>
